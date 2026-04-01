@@ -3,5 +3,5 @@
 A tool for packing and protecting EXE files(BY VIBE CODING), it just connects the operations of shell protection and packaging.
 
 ## config
-.net reactor 7.0.0
+.net reactor 7.0.0  
 inno setup 6.7.1
